@@ -15,7 +15,7 @@
 }
 .sqrt-hello_world {
 	font-family: 'wisdom-script', cursive;
-	font-size: 40px;
+	font-size: 20px;
 	color: #ffffff;
 	text-align: center;
 	margin-top: 60px
@@ -23,28 +23,28 @@
 .sqrt-title {
 	margin-top: -15px;
 	font-family: 'raleway', sans-serif;
-	font-size: 200px;
+	font-size: 100px;
 	color: #ffffff;
 	text-align: center;
 }
 .sqrt-description {
 	font-family: 'raleway', sans-serif;
-	font-size: 35px;
+	font-size: 20px;
 	color: #ffffff;
 	text-align: center;
-	text-decoration: none;
+	text-decoration: none
 }
 .sqrt-link_container {
 	
 }
 .sqrt-logo_container {
-	padding-left: 0px;
+	padding-top: 50px;
 	border-color: #ffffff;
 	display: block;
 	text-align: center;
 }
 .sqrt-logo {
 
- 	width: 300px;
+ 	width: 250px;
 	height: auto;
 }
