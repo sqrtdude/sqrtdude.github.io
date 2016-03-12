@@ -2,7 +2,7 @@
 	font-family: 'WisdomScript';
 	font-style: normal;
 	font-weight: 400;
-	src: local('wisdomscript'), local('wisdomscript'), url("/fonts/wisdomscript.otf") format('otf');
+	src: local('WisdomScript'), local('WisdomScript'), url("/fonts/Wisdom-Script.otf") format('otf');
 }
 html,body,ul,li,h1,h2,p{
 	margin: 0;
@@ -10,7 +10,7 @@ html,body,ul,li,h1,h2,p{
 }
 
 body{
-	font-family: 'WisdomScript', sans-serif;
+	font-family: 'raleway', sans-serif;
 	color: #2c3e50;
 	background-image: url('img/bgImage.png');
 	-webkit-font-smoothing: antialiased;
@@ -37,7 +37,7 @@ body{
 
 h1{
 	font-size: 40px;
-	font-family: 'Damion', monospace;
+	font-family: 'WisdomScript', monospace;
 	color: #FFFFFF;
 }
 
