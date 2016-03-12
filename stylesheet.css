@@ -1,10 +1,16 @@
+@font-face {
+	font-family: 'WisdomScript';
+	font-style: normal;
+	font-weight: 400;
+	src: local('wisdomscript'), local('wisdomscript'), url("/fonts/wisdomscript.otf") format('otf');
+}
 html,body,ul,li,h1,h2,p{
 	margin: 0;
 	padding: 0;
 }
 
 body{
-	font-family: 'raleway', sans-serif;
+	font-family: 'WisdomScript', sans-serif;
 	color: #2c3e50;
 	background-image: url('img/bgImage.png');
 	-webkit-font-smoothing: antialiased;
