@@ -1,0 +1,50 @@
+@font-face {
+	font-family: 'wisdom-script';
+	font-style: normal;
+	font-weight: 300;
+	src:  url(/resources/fonts/Wisdom-Script.ttf), format('ttf');
+}
+@font-face {
+	font-family: 'raleway';
+	font-style: normal;
+	font-weight: 400;
+	src:  url(/resources/fonts/Raleway-Regular.ttf), format('ttf');
+}
+.sqrt-web_container { 
+	background-image: url(/resources/img/bgImage.png);
+}
+.sqrt-hello_world {
+	font-family: 'wisdom-script', cursive;
+	font-size: 40px;
+	color: #ffffff;
+	text-align: center;
+	margin-top: 60px
+}
+.sqrt-title {
+	margin-top: -15px;
+	font-family: 'raleway', sans-serif;
+	font-size: 200px;
+	color: #ffffff;
+	text-align: center;
+}
+.sqrt-description {
+	font-family: 'raleway', sans-serif;
+	font-size: 35px;
+	color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+}
+.sqrt-link_container {
+	
+}
+.sqrt-logo_container {
+	padding-left: 0px;
+	border-color: #ffffff;
+	display: block;
+	text-align: center;
+}
+.sqrt-logo {
+
+ 	width: 300px;
+	height: auto;
+}
