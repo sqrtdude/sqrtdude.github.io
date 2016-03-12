@@ -2,7 +2,7 @@
 	font-family: 'WisdomScript';
 	font-style: normal;
 	font-weight: 400;
-	src: local('WisdomScript'), local('WisdomScript'), url("/fonts/Wisdom-Script.otf") format('otf');
+	src: local('WisdomScript'), local('WisdomScript'), url("/fonts/Wisdom-Script.ttf") format('ttf');
 }
 html,body,ul,li,h1,h2,p{
 	margin: 0;
